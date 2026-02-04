@@ -6,9 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mab.dev69@gmail.com)](mailto:mab.dev69@gmail.com)
 [![Static Badge](https://img.shields.io/badge/My_Portfolio-yellow?style=flat-square&link=https%3A%2F%2Fmab-dev.com%2F)](https://www.mab-dev.com)
 
-I'm a **French Web Developer** & **Web Development Instructor** with a passion for crafting efficient and scalable applications. At **26 years old**, I specialize in building modern web solutions using the **JavaScript/TypeScript ecosystem**, with a strong focus on **React** and **Node.js**.
+I'm a **French Web Developer** & **Web Development Instructor** with a passion for crafting efficient and scalable applications. At **27 years old**, I specialize in building modern web solutions using the **JavaScript/TypeScript ecosystem**, with a strong focus on **React** and **Node.js**.
 
-I also like to learn new technologies. I am currently learn Rust 
+I also like to learn new technologies.
 
 Currently, I'm on the lookout for **new job opportunities** in web development, eager to contribute my expertise and keep growing in the field.
 
