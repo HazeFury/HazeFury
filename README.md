@@ -24,7 +24,7 @@ The following technologies are either:
 
  **Languages**:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,rust,bash)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,python,bash)
 
 **Framework / Library**: 
 
